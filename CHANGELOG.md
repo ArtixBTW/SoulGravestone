@@ -19,3 +19,4 @@ All notable changes to this project will be documented in this file.
 ## [1.0.3] - 20XX-XX-XX
 ### Fixed
 - Enhanced compatibility with some mods that prevent your death in quirky ways. (See Ars Additions's Second Wind)
+- The invisibility potion effect works now
